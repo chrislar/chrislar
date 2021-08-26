@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Christian Laryea. I studied software engineer at IPMC, and currently involved with the preMest program. I'm currently trying to learn new languages and also improve my skills to become a fullstack web developer. Reach me through email via negusnagasti89@gmail.com 
+I'm Christian Laryea. I studied software engineering at IPMC. I'm currently trying to learn new languages and also improve my skills to become a fullstack web developer. Reach me through email via christianlaryea89@gmail.com 
 <!--
 **chrislar/chrislar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
